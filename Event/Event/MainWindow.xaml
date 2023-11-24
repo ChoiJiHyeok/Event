@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Event"
         mc:Ignorable="d"
-        Title="MainWindow" Height="820" Width="820">
+        Title="MainWindow" Height="830" Width="830">
     <Grid>
         
     </Grid>
